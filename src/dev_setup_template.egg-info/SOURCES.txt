@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/dev_setup_template/__init__.py
+src/dev_setup_template/main.py
+src/dev_setup_template.egg-info/PKG-INFO
+src/dev_setup_template.egg-info/SOURCES.txt
+src/dev_setup_template.egg-info/dependency_links.txt
+src/dev_setup_template.egg-info/top_level.txt
+tests/test_main.py
